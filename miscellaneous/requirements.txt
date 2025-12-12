@@ -1,0 +1,6 @@
+sounddevice
+scipy
+pydub
+huggingface_hub
+spacy
+python-dotenv

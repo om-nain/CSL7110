@@ -1,0 +1,13 @@
+torch
+transformers
+pandas
+numpy
+whisper
+scipy
+soundfile
+librosa
+sounddevice
+pydub
+huggingface_hub
+python-dotenv
+git+https://github.com/openai/whisper.git # For the latest version

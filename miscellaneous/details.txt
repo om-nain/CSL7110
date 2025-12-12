@@ -1,0 +1,1 @@
+python -m spacy download en_core_web_sm : to download en-core-web-sm which is a spcy model for preprocessing
